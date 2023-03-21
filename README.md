@@ -6,10 +6,12 @@ __🙋‍♂️ Oi! sou Gustavo__ O cara _apaixonado por tecnologia!_<br>
 👯 Me quer em algum projeto? __#Colaí__<br><br>
 👉 Meu ID no discord é: _Extector#6633_<br><br>
 
+-----
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Extector) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisgcti/)
 -----
+
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
